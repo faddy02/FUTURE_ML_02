@@ -1,0 +1,301 @@
+ticket_id,ticket_text,category,priority
+1,Payment failed but money was deducted from my bank account.,Billing,Medium
+2,Website is loading very slowly.,Technical,High
+3,Unable to update my billing details.,Billing,High
+4,My order has not been delivered yet.,Delivery,High
+5,I was charged twice for my subscription this month.,Billing,High
+6,Unable to update my billing details.,Billing,High
+7,Received a damaged product.,Delivery,Medium
+8,I forgot my password and cannot reset it.,Account,Medium
+9,Tracking status has not been updated.,Delivery,Medium
+10,Website is loading very slowly.,Technical,Medium
+11,Payment failed but money was deducted from my bank account.,Billing,Medium
+12,Invoice amount does not match the agreed pricing.,Billing,Medium
+13,I forgot my password and cannot reset it.,Account,Low
+14,Refund has not been processed yet.,Billing,High
+15,Need to update my profile information.,Account,Low
+16,The app crashes whenever I try to log in.,Technical,High
+17,Error 500 showing while submitting the form.,Technical,High
+18,The app crashes whenever I try to log in.,Technical,Medium
+19,Email verification link is not working.,Account,Low
+20,Error 500 showing while submitting the form.,Technical,Medium
+21,Error 500 showing while submitting the form.,Technical,High
+22,Notifications are not working properly.,Technical,High
+23,Unable to upload files to the dashboard.,Technical,Medium
+24,Need to update my profile information.,Account,Medium
+25,I forgot my password and cannot reset it.,Account,Medium
+26,Invoice amount does not match the agreed pricing.,Billing,Medium
+27,I forgot my password and cannot reset it.,Account,Medium
+28,My account has been locked without any reason.,Account,Low
+29,Delivery address needs to be changed.,Delivery,High
+30,My account has been locked without any reason.,Account,Medium
+31,Need to update my profile information.,Account,Low
+32,Tracking status has not been updated.,Delivery,High
+33,Notifications are not working properly.,Technical,Medium
+34,Payment failed but money was deducted from my bank account.,Billing,High
+35,Website is loading very slowly.,Technical,Medium
+36,Refund has not been processed yet.,Billing,Medium
+37,Order shows delivered but I have not received it.,Delivery,Medium
+38,Payment failed but money was deducted from my bank account.,Billing,Medium
+39,I forgot my password and cannot reset it.,Account,Low
+40,Received a damaged product.,Delivery,Medium
+41,Invoice amount does not match the agreed pricing.,Billing,High
+42,Invoice amount does not match the agreed pricing.,Billing,High
+43,Error 500 showing while submitting the form.,Technical,High
+44,Unable to update my billing details.,Billing,Medium
+45,My order has not been delivered yet.,Delivery,High
+46,Not receiving OTP on my registered number.,Account,Medium
+47,I was charged twice for my subscription this month.,Billing,High
+48,Refund has not been processed yet.,Billing,High
+49,Website is loading very slowly.,Technical,Medium
+50,Error 500 showing while submitting the form.,Technical,Medium
+51,Notifications are not working properly.,Technical,High
+52,Email verification link is not working.,Account,Low
+53,Order shows delivered but I have not received it.,Delivery,Medium
+54,I was charged twice for my subscription this month.,Billing,High
+55,Invoice amount does not match the agreed pricing.,Billing,High
+56,Notifications are not working properly.,Technical,High
+57,Payment failed but money was deducted from my bank account.,Billing,High
+58,The app crashes whenever I try to log in.,Technical,High
+59,I forgot my password and cannot reset it.,Account,Medium
+60,Email verification link is not working.,Account,Medium
+61,Notifications are not working properly.,Technical,Medium
+62,Unable to upload files to the dashboard.,Technical,Medium
+63,The app crashes whenever I try to log in.,Technical,High
+64,Tracking status has not been updated.,Delivery,Medium
+65,Delivery address needs to be changed.,Delivery,High
+66,Payment failed but money was deducted from my bank account.,Billing,Medium
+67,I forgot my password and cannot reset it.,Account,Medium
+68,Website is loading very slowly.,Technical,Medium
+69,Unable to upload files to the dashboard.,Technical,High
+70,Email verification link is not working.,Account,Medium
+71,Refund has not been processed yet.,Billing,High
+72,Unable to update my billing details.,Billing,High
+73,I was charged twice for my subscription this month.,Billing,High
+74,Delivery address needs to be changed.,Delivery,Medium
+75,Unable to upload files to the dashboard.,Technical,High
+76,Unable to upload files to the dashboard.,Technical,High
+77,Tracking status has not been updated.,Delivery,Medium
+78,Email verification link is not working.,Account,Low
+79,Website is loading very slowly.,Technical,Medium
+80,The app crashes whenever I try to log in.,Technical,High
+81,I forgot my password and cannot reset it.,Account,Medium
+82,Order shows delivered but I have not received it.,Delivery,High
+83,Unable to update my billing details.,Billing,High
+84,The app crashes whenever I try to log in.,Technical,High
+85,Unable to upload files to the dashboard.,Technical,High
+86,Notifications are not working properly.,Technical,High
+87,Refund has not been processed yet.,Billing,Medium
+88,My account has been locked without any reason.,Account,Low
+89,Error 500 showing while submitting the form.,Technical,Medium
+90,Error 500 showing while submitting the form.,Technical,Medium
+91,I forgot my password and cannot reset it.,Account,Medium
+92,Order shows delivered but I have not received it.,Delivery,High
+93,Unable to update my billing details.,Billing,High
+94,My account has been locked without any reason.,Account,Low
+95,I was charged twice for my subscription this month.,Billing,Medium
+96,My account has been locked without any reason.,Account,Low
+97,Need to update my profile information.,Account,Medium
+98,I forgot my password and cannot reset it.,Account,Medium
+99,I forgot my password and cannot reset it.,Account,Medium
+100,Error 500 showing while submitting the form.,Technical,Medium
+101,Error 500 showing while submitting the form.,Technical,High
+102,Need to update my profile information.,Account,Low
+103,I forgot my password and cannot reset it.,Account,Medium
+104,Tracking status has not been updated.,Delivery,High
+105,Invoice amount does not match the agreed pricing.,Billing,High
+106,My account has been locked without any reason.,Account,Low
+107,Order shows delivered but I have not received it.,Delivery,High
+108,Payment failed but money was deducted from my bank account.,Billing,High
+109,Invoice amount does not match the agreed pricing.,Billing,High
+110,Received a damaged product.,Delivery,High
+111,Not receiving OTP on my registered number.,Account,Medium
+112,My account has been locked without any reason.,Account,Medium
+113,Invoice amount does not match the agreed pricing.,Billing,Medium
+114,Website is loading very slowly.,Technical,High
+115,Unable to upload files to the dashboard.,Technical,High
+116,Error 500 showing while submitting the form.,Technical,Medium
+117,Error 500 showing while submitting the form.,Technical,High
+118,Refund has not been processed yet.,Billing,High
+119,Received a damaged product.,Delivery,High
+120,Tracking status has not been updated.,Delivery,Medium
+121,Website is loading very slowly.,Technical,High
+122,Unable to upload files to the dashboard.,Technical,Medium
+123,I forgot my password and cannot reset it.,Account,Low
+124,Need to update my profile information.,Account,Low
+125,I forgot my password and cannot reset it.,Account,Medium
+126,My account has been locked without any reason.,Account,Low
+127,Payment failed but money was deducted from my bank account.,Billing,Medium
+128,Not receiving OTP on my registered number.,Account,Low
+129,Refund has not been processed yet.,Billing,High
+130,I forgot my password and cannot reset it.,Account,Low
+131,Unable to update my billing details.,Billing,High
+132,Email verification link is not working.,Account,Medium
+133,Need to update my profile information.,Account,Low
+134,Invoice amount does not match the agreed pricing.,Billing,Medium
+135,Tracking status has not been updated.,Delivery,Medium
+136,Need to update my profile information.,Account,Medium
+137,Unable to upload files to the dashboard.,Technical,Medium
+138,Notifications are not working properly.,Technical,Medium
+139,Order shows delivered but I have not received it.,Delivery,High
+140,Not receiving OTP on my registered number.,Account,Medium
+141,Order shows delivered but I have not received it.,Delivery,Medium
+142,Delivery address needs to be changed.,Delivery,Medium
+143,Notifications are not working properly.,Technical,Medium
+144,The app crashes whenever I try to log in.,Technical,Medium
+145,I forgot my password and cannot reset it.,Account,Medium
+146,My account has been locked without any reason.,Account,Medium
+147,The app crashes whenever I try to log in.,Technical,High
+148,Unable to upload files to the dashboard.,Technical,High
+149,Delivery address needs to be changed.,Delivery,High
+150,Delivery address needs to be changed.,Delivery,Medium
+151,Website is loading very slowly.,Technical,High
+152,Refund has not been processed yet.,Billing,High
+153,Notifications are not working properly.,Technical,Medium
+154,Unable to update my billing details.,Billing,High
+155,Refund has not been processed yet.,Billing,High
+156,Order shows delivered but I have not received it.,Delivery,Medium
+157,Order shows delivered but I have not received it.,Delivery,Medium
+158,Received a damaged product.,Delivery,Medium
+159,Tracking status has not been updated.,Delivery,High
+160,Need to update my profile information.,Account,Low
+161,Error 500 showing while submitting the form.,Technical,Medium
+162,Invoice amount does not match the agreed pricing.,Billing,High
+163,Not receiving OTP on my registered number.,Account,Low
+164,I was charged twice for my subscription this month.,Billing,High
+165,Unable to upload files to the dashboard.,Technical,High
+166,The app crashes whenever I try to log in.,Technical,Medium
+167,Tracking status has not been updated.,Delivery,Medium
+168,My order has not been delivered yet.,Delivery,High
+169,Delivery address needs to be changed.,Delivery,High
+170,Delivery address needs to be changed.,Delivery,High
+171,Not receiving OTP on my registered number.,Account,Low
+172,Order shows delivered but I have not received it.,Delivery,High
+173,Received a damaged product.,Delivery,Medium
+174,Delivery address needs to be changed.,Delivery,High
+175,Tracking status has not been updated.,Delivery,Medium
+176,Unable to upload files to the dashboard.,Technical,High
+177,Refund has not been processed yet.,Billing,High
+178,Refund has not been processed yet.,Billing,High
+179,Received a damaged product.,Delivery,High
+180,Email verification link is not working.,Account,Low
+181,Unable to upload files to the dashboard.,Technical,Medium
+182,Email verification link is not working.,Account,Low
+183,Tracking status has not been updated.,Delivery,High
+184,My order has not been delivered yet.,Delivery,High
+185,My account has been locked without any reason.,Account,Medium
+186,Payment failed but money was deducted from my bank account.,Billing,High
+187,The app crashes whenever I try to log in.,Technical,High
+188,Website is loading very slowly.,Technical,Medium
+189,Unable to update my billing details.,Billing,High
+190,Tracking status has not been updated.,Delivery,Medium
+191,Notifications are not working properly.,Technical,High
+192,Error 500 showing while submitting the form.,Technical,High
+193,Invoice amount does not match the agreed pricing.,Billing,Medium
+194,Received a damaged product.,Delivery,High
+195,The app crashes whenever I try to log in.,Technical,Medium
+196,Unable to update my billing details.,Billing,High
+197,Need to update my profile information.,Account,Low
+198,I forgot my password and cannot reset it.,Account,Low
+199,Refund has not been processed yet.,Billing,Medium
+200,Refund has not been processed yet.,Billing,Medium
+201,Received a damaged product.,Delivery,Medium
+202,Notifications are not working properly.,Technical,Medium
+203,Delivery address needs to be changed.,Delivery,Medium
+204,Not receiving OTP on my registered number.,Account,Medium
+205,Invoice amount does not match the agreed pricing.,Billing,Medium
+206,Unable to upload files to the dashboard.,Technical,Medium
+207,I forgot my password and cannot reset it.,Account,Low
+208,My account has been locked without any reason.,Account,Low
+209,Error 500 showing while submitting the form.,Technical,Medium
+210,Not receiving OTP on my registered number.,Account,Low
+211,Unable to update my billing details.,Billing,High
+212,I was charged twice for my subscription this month.,Billing,Medium
+213,Order shows delivered but I have not received it.,Delivery,High
+214,Delivery address needs to be changed.,Delivery,Medium
+215,Payment failed but money was deducted from my bank account.,Billing,Medium
+216,Unable to upload files to the dashboard.,Technical,High
+217,Need to update my profile information.,Account,Low
+218,Order shows delivered but I have not received it.,Delivery,Medium
+219,Order shows delivered but I have not received it.,Delivery,Medium
+220,Email verification link is not working.,Account,Low
+221,Not receiving OTP on my registered number.,Account,Medium
+222,I was charged twice for my subscription this month.,Billing,Medium
+223,Unable to update my billing details.,Billing,High
+224,Website is loading very slowly.,Technical,Medium
+225,Need to update my profile information.,Account,Low
+226,I was charged twice for my subscription this month.,Billing,Medium
+227,Error 500 showing while submitting the form.,Technical,High
+228,I forgot my password and cannot reset it.,Account,Medium
+229,I forgot my password and cannot reset it.,Account,Medium
+230,My account has been locked without any reason.,Account,Low
+231,Payment failed but money was deducted from my bank account.,Billing,Medium
+232,Delivery address needs to be changed.,Delivery,Medium
+233,My account has been locked without any reason.,Account,Medium
+234,Email verification link is not working.,Account,Medium
+235,Refund has not been processed yet.,Billing,Medium
+236,Unable to update my billing details.,Billing,High
+237,Website is loading very slowly.,Technical,Medium
+238,I was charged twice for my subscription this month.,Billing,High
+239,Order shows delivered but I have not received it.,Delivery,High
+240,Delivery address needs to be changed.,Delivery,Medium
+241,Need to update my profile information.,Account,Low
+242,Need to update my profile information.,Account,Medium
+243,I was charged twice for my subscription this month.,Billing,High
+244,I forgot my password and cannot reset it.,Account,Medium
+245,Website is loading very slowly.,Technical,High
+246,The app crashes whenever I try to log in.,Technical,Medium
+247,Order shows delivered but I have not received it.,Delivery,Medium
+248,I forgot my password and cannot reset it.,Account,Medium
+249,Not receiving OTP on my registered number.,Account,Low
+250,I was charged twice for my subscription this month.,Billing,Medium
+251,Unable to upload files to the dashboard.,Technical,High
+252,Website is loading very slowly.,Technical,Medium
+253,The app crashes whenever I try to log in.,Technical,High
+254,Error 500 showing while submitting the form.,Technical,Medium
+255,My order has not been delivered yet.,Delivery,Medium
+256,Email verification link is not working.,Account,Low
+257,Delivery address needs to be changed.,Delivery,High
+258,Refund has not been processed yet.,Billing,Medium
+259,I forgot my password and cannot reset it.,Account,Medium
+260,Notifications are not working properly.,Technical,High
+261,Need to update my profile information.,Account,Medium
+262,Unable to upload files to the dashboard.,Technical,Medium
+263,My account has been locked without any reason.,Account,Low
+264,My order has not been delivered yet.,Delivery,Medium
+265,Email verification link is not working.,Account,Low
+266,I forgot my password and cannot reset it.,Account,Medium
+267,Email verification link is not working.,Account,Low
+268,Email verification link is not working.,Account,Medium
+269,My order has not been delivered yet.,Delivery,Medium
+270,Not receiving OTP on my registered number.,Account,Medium
+271,Order shows delivered but I have not received it.,Delivery,High
+272,Delivery address needs to be changed.,Delivery,High
+273,Notifications are not working properly.,Technical,Medium
+274,Delivery address needs to be changed.,Delivery,High
+275,Error 500 showing while submitting the form.,Technical,High
+276,Email verification link is not working.,Account,Low
+277,Payment failed but money was deducted from my bank account.,Billing,High
+278,Error 500 showing while submitting the form.,Technical,High
+279,My order has not been delivered yet.,Delivery,High
+280,Refund has not been processed yet.,Billing,High
+281,Unable to upload files to the dashboard.,Technical,Medium
+282,Email verification link is not working.,Account,Low
+283,Received a damaged product.,Delivery,Medium
+284,Unable to upload files to the dashboard.,Technical,High
+285,The app crashes whenever I try to log in.,Technical,Medium
+286,Tracking status has not been updated.,Delivery,Medium
+287,Invoice amount does not match the agreed pricing.,Billing,Medium
+288,Received a damaged product.,Delivery,Medium
+289,Tracking status has not been updated.,Delivery,Medium
+290,Delivery address needs to be changed.,Delivery,Medium
+291,Website is loading very slowly.,Technical,Medium
+292,Unable to upload files to the dashboard.,Technical,High
+293,Email verification link is not working.,Account,Low
+294,Received a damaged product.,Delivery,Medium
+295,I was charged twice for my subscription this month.,Billing,Medium
+296,Refund has not been processed yet.,Billing,High
+297,My order has not been delivered yet.,Delivery,High
+298,Received a damaged product.,Delivery,High
+299,Tracking status has not been updated.,Delivery,Medium
+300,My order has not been delivered yet.,Delivery,Medium
